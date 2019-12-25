@@ -25,13 +25,16 @@ namespace BethanysPieShop.Controllers
 
         public ViewResult List()
         {
-            // delcare object
+            // delcare object model to pass to view
             PiesListViewModel piesListViewModel = new PiesListViewModel();
-            // set object
-            piesListViewModel.Pies = _pieRepository.AllPies;
-
+            // set Pies values
+            piesListViewModel.Pies = _pieRepository.AllPies; 
+            // set CurrentCategory value
             piesListViewModel.CurrentCategory = "Cheese cakes";
-            return View(_pieRepository.AllPies);
+
+            
+
+            return View(piesListViewModel);
         }
     }
 }
