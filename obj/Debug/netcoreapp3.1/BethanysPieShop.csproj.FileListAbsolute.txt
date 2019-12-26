@@ -30,3 +30,4 @@ C:\Users\Vice\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3
 C:\Users\Vice\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Vice\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\Vice\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vice\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\libman.json
